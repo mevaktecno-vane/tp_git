@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 31da775f21c1b4aed4839df38cb98a685059a633 mevaktecno-vane <mevak.tecno@gmail.com> 1759926033 -0300	commit (initial): Version inicial en rama main
+31da775f21c1b4aed4839df38cb98a685059a633 0000000000000000000000000000000000000000 mevaktecno-vane <mevak.tecno@gmail.com> 1759926063 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 31da775f21c1b4aed4839df38cb98a685059a633 mevaktecno-vane <mevak.tecno@gmail.com> 1759926063 -0300	Branch: renamed refs/heads/master to refs/heads/main
+31da775f21c1b4aed4839df38cb98a685059a633 31da775f21c1b4aed4839df38cb98a685059a633 mevaktecno-vane <mevak.tecno@gmail.com> 1759927800 -0300	checkout: moving from main to estudiante
+31da775f21c1b4aed4839df38cb98a685059a633 726bc623df9ff2086f3f25fd2ae71935c964218e mevaktecno-vane <mevak.tecno@gmail.com> 1759928107 -0300	commit: Agrego una línea desde la rama estudiante
+726bc623df9ff2086f3f25fd2ae71935c964218e 31da775f21c1b4aed4839df38cb98a685059a633 mevaktecno-vane <mevak.tecno@gmail.com> 1759928834 -0300	checkout: moving from estudiante to main
+31da775f21c1b4aed4839df38cb98a685059a633 726bc623df9ff2086f3f25fd2ae71935c964218e mevaktecno-vane <mevak.tecno@gmail.com> 1759928873 -0300	checkout: moving from main to estudiante
+726bc623df9ff2086f3f25fd2ae71935c964218e 31da775f21c1b4aed4839df38cb98a685059a633 mevaktecno-vane <mevak.tecno@gmail.com> 1759929726 -0300	checkout: moving from estudiante to main
+31da775f21c1b4aed4839df38cb98a685059a633 726bc623df9ff2086f3f25fd2ae71935c964218e mevaktecno-vane <mevak.tecno@gmail.com> 1759931140 -0300	merge origin/estudiante: Fast-forward
+726bc623df9ff2086f3f25fd2ae71935c964218e 726bc623df9ff2086f3f25fd2ae71935c964218e mevaktecno-vane <mevak.tecno@gmail.com> 1759943870 -0300	checkout: moving from main to estudiante
+726bc623df9ff2086f3f25fd2ae71935c964218e 726bc623df9ff2086f3f25fd2ae71935c964218e mevaktecno-vane <mevak.tecno@gmail.com> 1759944289 -0300	checkout: moving from estudiante to experimentos

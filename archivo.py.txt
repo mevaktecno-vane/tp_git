@@ -1,2 +1,0 @@
-print(rama main - Inicio de proyecto)
-print("Rama estudiante - agrego una linea")
